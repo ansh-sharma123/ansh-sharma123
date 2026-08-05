@@ -449,9 +449,19 @@ A Linux CLI tool for Wi-Fi network security auditing. Scans for nearby networks,
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,15:e94560,30:533483,50:0f3460,70:16213e,85:1a1a2e,100:0D1117&height=120&section=footer" width="100%"/>
 
-<br/>
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!-- 💬 QUOTE OF THE DAY (Edit the quote text below anytime in README.md!)       -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=4000&pause=2000&color=7C3AED&center=true&vCenter=true&width=600&lines=%22Security+is+not+a+product%2C+but+a+process.%22+—+Bruce+Schneier;%22The+best+way+to+predict+the+future+is+to+invent+it.%22+—+Alan+Kay;%22First%2C+solve+the+problem.+Then%2C+write+the+code.%22+—+John+Johnson" alt="Quote" />
+<div align="center">
+
+<img src="https://img.shields.io/badge/💬_Quote_of_the_Day-00D9FF?style=for-the-badge&labelColor=0D1117" alt="Quote of the Day"/>
+
+<br/><br/>
+
+> <i>"Security is not a product, but a process."</i> — **Bruce Schneier**
+
+</div>
 
 <br/><br/>
 
