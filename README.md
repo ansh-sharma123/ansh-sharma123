@@ -30,7 +30,7 @@
 <!--                        🎵  SPOTIFY & VIBES  🎵                                -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
-<a href="https://open.spotify.com/user/31bkkjetdj42j2dr3hhqn7umymni" target="_blank">
+<a href="https://open.spotify.com" target="_blank">
   <img src="https://img.shields.io/badge/Spotify-Vibing_&_Coding_%F0%9F%8E%A7-1ED760?style=for-the-badge&logo=spotify&logoColor=black&labelColor=0D1117" alt="Spotify Profile"/>
 </a>
 
