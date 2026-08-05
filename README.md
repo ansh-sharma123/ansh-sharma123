@@ -4,7 +4,7 @@
 
 ### Hi there, I'm Anshul Sharma 👋
 
-[![Typing SVG](https://camo.githubusercontent.com/a4411fa95e8789993de5ecc3aa7eacad53ae9cd14ec42543d00744b6094b2fbb/68747470733a2f2f726561646d652d747970696e672d7376672e64656d6f6c61622e636f6d3f666f6e743d466972612b436f6465267765696768743d3630302673697a653d3238266475726174696f6e3d333030302670617573653d3130303026636f6c6f723d3030443946462663656e7465723d74727565267643656e7465723d747275652677696474683d373530266c696e65733d4865792b74686572652532432b49276d2b416e7368756c2b536861726d612b2546302539462539312538423b46756c6c2b537461636b2b446576656c6f7065722b2537432b53656375726974792b526573656172636865723b4275696c64696e672b41492d506f77657265642b2532362b5365637572652b4170706c69636174696f6e733b4f70656e2b746f2b496e7465726e73686970732b2532362b436f6c6c61626f726174696f6e73)](https://git.io/typing-svg)
+[![Typing SVG](https://camo.githubusercontent.com/a4411fa95e8789993de5ecc3aa7eacad53ae9cd14ec42543d00744b6094b2fbb/68747470733a2f2f726561646d652d747970696e672d7376672e64656d6f6c61622e636f6d3f666f6e743d466972612b436f6465267765696768743d3630302673697a653d3238266475726174696f6e3d333030302670617573653d3130303026636f6c6f723d3030443946462663656e7465723d74727565267643656e7465723d747275652677696468683d373530266c696e65733d4865792b74686572652532432b49276d2b416e7368756c2b536861726d612b2546302539462539312538423b46756c6c2b537461636b2b446576656c6f7065722b2537432b53656375726974792b526573656172636865723b4275696c64696e672b41492d506f77657265642b2532362b5365637572652b4170706c69636174696f6e733b4f70656e2b746f2b496e7465726e73686970732b2532362b436f6c6c61626f726174696f6e73)](https://git.io/typing-svg)
 
 </div>
 
@@ -18,37 +18,11 @@
 
 ---
 
-## 👨‍💻 About Me
-
-<div align="left">
-
-I'm **Anshul Sharma** — a passionate **Full Stack Developer** and **Cybersecurity Researcher** from India. I build production-grade AI-powered applications and real-world security tools, combining deep technical curiosity with clean engineering.
-
-- 🤖 Built a **multi-disease AI diagnostic platform** using deep neural ensembles — deployed on Render with FastAPI + Dash
-- 🔐 Developed practical **cybersecurity tools** for network security research and penetration testing
-- 📅 Engineered an **AI-based timetable generator** that intelligently schedules academic workloads
-- 🌱 Deepening expertise in **React.js**, **REST API design**, **ML model deployment**, and **cloud infrastructure**
-- 🎯 Seeking **Software Engineering Internships** — open to full-stack, AI/ML, and security-focused roles
-- ⚡ Fun fact: When I'm not coding, I'm doing CTFs, hunting vulnerabilities, or solving ciphers
-
-</div>
-
----
-
-## 🔗 Connect with Me
-
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anshul-sharma)
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/anshul-sharma)
-[![HackerEarth](https://img.shields.io/badge/HackerEarth-323754?style=for-the-badge&logo=hackerearth&logoColor=white)](https://www.hackerearth.com/@anshul3478)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anshul3478@gmail.com)
+## 🛠️ Tech Stack
 
 </div>
-
----
-
-## 🛠️ Tech Stack & Skills
 
 <div align="left">
 
@@ -97,6 +71,36 @@ I'm **Anshul Sharma** — a passionate **Full Stack Developer** and **Cybersecur
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+<div align="left">
+
+I'm **Anshul Sharma** — a passionate **Full Stack Developer** and **Cybersecurity Researcher** from India. I build production-grade AI-powered applications and real-world security tools, combining deep technical curiosity with clean engineering.
+
+- 🤖 Built a **multi-disease AI diagnostic platform** using deep neural ensembles — deployed on Render with FastAPI + Dash
+- 🔐 Developed practical **cybersecurity tools** for network security research and penetration testing
+- 📅 Engineered an **AI-based timetable generator** that intelligently schedules academic workloads
+- 🌱 Deepening expertise in **React.js**, **REST API design**, **ML model deployment**, and **cloud infrastructure**
+- 🎯 Seeking **Software Engineering Internships** — open to full-stack, AI/ML, and security-focused roles
+- ⚡ Fun fact: When I'm not coding, I'm doing CTFs, hunting vulnerabilities, or solving ciphers
+
+</div>
+
+---
+
+## 🔗 Connect with Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anshul-sharma)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/anshul-sharma)
+[![HackerEarth](https://img.shields.io/badge/HackerEarth-323754?style=for-the-badge&logo=hackerearth&logoColor=white)](https://www.hackerearth.com/@anshul3478)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anshul3478@gmail.com)
 
 </div>
 
