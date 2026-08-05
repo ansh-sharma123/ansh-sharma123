@@ -17,6 +17,19 @@
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!--                     ⚡  QUICK NAVIGATION BAR  ⚡                           -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
+<p align="center">
+  <a href="#-whoami"><b>👨‍💻 About</b></a> &nbsp;•&nbsp;
+  <a href="#-connect-with-me"><b>🌐 Connect</b></a> &nbsp;•&nbsp;
+  <a href="#️-tech-arsenal"><b>🛠️ Tech Stack</b></a> &nbsp;•&nbsp;
+  <a href="#-featured-projects"><b>🚀 Projects</b></a> &nbsp;•&nbsp;
+  <a href="#-github-analytics"><b>📊 Analytics</b></a> &nbsp;•&nbsp;
+  <a href="#-current-mission"><b>🎯 Mission</b></a>
+</p>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
 <!--                         🎭  STATUS BADGES  🎭                             -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
@@ -349,6 +362,13 @@ A Linux CLI tool for Wi-Fi network security auditing. Scans for nearby networks,
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ansh-sharma123&bg_color=0D1117&color=00D9FF&line=7C3AED&point=e94560&area=true&area_color=7C3AED&hide_border=true&custom_title=📈%20Contribution%20Graph" alt="Contribution Graph" width="100%"/>
 
+<br/><br/>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/LeetCode-Problem_Solving-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=0D1117" alt="LeetCode Badge"/>
+  <img src="https://img.shields.io/badge/HackerRank-5★_Problem_Solving-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black&labelColor=0D1117" alt="HackerRank Badge"/>
+</p>
+
 </div>
 
 <br/>
@@ -412,9 +432,9 @@ A Linux CLI tool for Wi-Fi network security auditing. Scans for nearby networks,
 ## 🐍 Watch My Contributions Get Eaten
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ansh-sharma123/ansh-sharma123/blob/main/snake.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/ansh-sharma123/ansh-sharma123/blob/main/snake.svg" />
-  <img alt="Snake animation" src="https://github.com/ansh-sharma123/ansh-sharma123/blob/main/snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ansh-sharma123/ansh-sharma123/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ansh-sharma123/ansh-sharma123/output/snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/ansh-sharma123/ansh-sharma123/output/snake-dark.svg" />
 </picture>
 
 </div>
