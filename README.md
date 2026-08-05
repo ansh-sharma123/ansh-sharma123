@@ -27,11 +27,11 @@
 <br/><br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!--                        🎵  SPOTIFY  🎵                                    -->
+<!--                        🎵  SPOTIFY & VIBES  🎵                                -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
-<a href="https://open.spotify.com/user/31bkkjetdj42j2dr3hhqn7umymni">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31bkkjetdj42j2dr3hhqn7umymni&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true" alt="Spotify Now Playing" />
+<a href="https://open.spotify.com/user/31bkkjetdj42j2dr3hhqn7umymni" target="_blank">
+  <img src="https://img.shields.io/badge/Spotify-Vibing_&_Coding_%F0%9F%8E%A7-1ED760?style=for-the-badge&logo=spotify&logoColor=black&labelColor=0D1117" alt="Spotify Profile"/>
 </a>
 
 </div>
