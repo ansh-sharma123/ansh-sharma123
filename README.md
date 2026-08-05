@@ -325,17 +325,25 @@ A Linux CLI tool for Wi-Fi network security auditing. Scans for nearby networks,
 ## 📊 GitHub Analytics
 
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ansh-sharma123&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=7C3AED&text_color=FFFFFF&ring_color=e94560"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ansh-sharma123&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8"/>
+  <a href="https://github.com/ansh-sharma123">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ansh-sharma123&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=7C3AED&text_color=FFFFFF&ring_color=e94560"/>
+  </a>
+  <a href="https://github.com/ansh-sharma123">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ansh-sharma123&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8"/>
+  </a>
 </p>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ansh-sharma123&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=e94560&currStreakLabel=00D9FF&sideLabels=7C3AED&dates=555555" alt="GitHub Streak" />
+<a href="https://github.com/ansh-sharma123">
+  <img src="https://streak-stats.demolab.com/?user=ansh-sharma123&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=e94560&currStreakLabel=00D9FF&sideLabels=7C3AED&dates=555555" alt="GitHub Streak" />
+</a>
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=ansh-sharma123&theme=algolia&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="GitHub Trophies" width="100%"/>
+<a href="https://github.com/ansh-sharma123">
+  <img src="https://github-profile-trophy.vercel.app/?username=ansh-sharma123&theme=algolia&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="GitHub Trophies" width="100%"/>
+</a>
 
 <br/><br/>
 
