@@ -258,10 +258,10 @@ Diagnoses **6+ diseases** (Diabetes, Heart Disease, Stroke, Kidney, Liver & more
 </td>
 <td width="50%" valign="top">
 
-### 📅 AI-Based Timetable Generator
+### 📅 ChronoGen: Genetic Algorithm Timetable System
 
-<a href="https://github.com/ansh-sharma123">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ansh-sharma123&repo=ansh-sharma123&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=7C3AED&text_color=C9D1D9" width="100%" />
+<a href="https://github.com/ansh-sharma123/ai_timetable_system">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ansh-sharma123&repo=ai_timetable_system&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=7C3AED&text_color=C9D1D9" width="100%" />
 </a>
 
 > **Intelligent scheduling system that auto-generates conflict-free academic timetables**
