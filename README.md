@@ -294,28 +294,18 @@ A Linux CLI tool for Wi-Fi network security auditing. Scans for nearby networks,
 </td>
 <td width="50%" valign="top">
 
-### 🧠 More Projects Coming Soon...
+### 🧠 Second Self — AI-Powered Second Brain
 
-<div align="center">
-<br/>
+<a href="https://github.com/ansh-sharma123/second-self">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ansh-sharma123&repo=second-self&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=7C3AED&text_color=C9D1D9" width="100%" />
+</a>
 
-```
-┌─────────────────────────────┐
-│                             │
-│   🔬 Research in Progress   │
-│   🛠️  Building Something    │
-│       Extraordinary         │
-│                             │
-│   Stay Tuned! 🚀           │
-│                             │
-└─────────────────────────────┘
-```
+> **Your digital extension — capture, connect, and create with AI**
 
-<br/>
+![AI](https://img.shields.io/badge/AI-7C3AED?style=flat-square)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-![Status](https://img.shields.io/badge/Status-In_Development-00D9FF?style=for-the-badge&labelColor=0D1117)
-
-</div>
+An AI-powered second brain that extends your memory and thinking. Capture ideas, connect knowledge, and let AI surface insights — making you smarter and more productive every day.
 
 </td>
 </tr>
@@ -479,7 +469,9 @@ A Linux CLI tool for Wi-Fi network security auditing. Scans for nearby networks,
 
 <br/><br/>
 
+<!-- QUOTE_START -->
 > <i>"Security is not a product, but a process."</i> — **Bruce Schneier**
+<!-- QUOTE_END -->
 
 </div>
 

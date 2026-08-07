@@ -1,0 +1,37 @@
+name: 🌟 Daily Quote Updater
+
+on:
+  schedule:
+    # Runs every day at 00:05 UTC (05:35 AM IST)
+    - cron: "5 0 * * *"
+  workflow_dispatch: # Allow manual trigger from GitHub Actions tab
+
+jobs:
+  update-quote:
+    name: Update Daily Quote in README
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: ⬇️ Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: 🐍 Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: 🔄 Run quote updater script
+        run: python update_quote.py
+
+      - name: 📝 Commit and push updated README
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git diff --cached --quiet && echo "No changes to commit" || git commit -m "🌟 chore: update daily quote [skip ci]"
+          git push
