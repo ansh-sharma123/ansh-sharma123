@@ -470,7 +470,7 @@ An AI-powered second brain that extends your memory and thinking. Capture ideas,
 <br/><br/>
 
 <!-- QUOTE_START -->
-> <i>"Security is not a product, but a process."</i> — **Bruce Schneier**
+> <i>"The mind is not a vessel to be filled, but a fire to be kindled."</i> — **Plutarch**
 <!-- QUOTE_END -->
 
 </div>
