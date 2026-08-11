@@ -297,7 +297,7 @@ A Linux CLI tool for Wi-Fi network security auditing. Scans for nearby networks,
 ### 🧠 Second Self — AI-Powered Second Brain
 
 <a href="https://github.com/ansh-sharma123/second-self">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ansh-sharma123&repo=second-self&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=7C3AED&text_color=C9D1D9" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ansh-sharma123&repo=second-self&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=7C3AED&text_color=C9D1D9" width="100%" />
 </a>
 
 > **Your digital extension — capture, connect, and create with AI**
