@@ -243,7 +243,7 @@ class Developer {
 ### 🏥 Aegis AI — Healthcare Diagnosis System
 
 <a href="https://github.com/ansh-sharma123/AI-Healthcare-Diagnosis-System">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ansh-sharma123&repo=AI-Healthcare-Diagnosis-System&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=7C3AED&text_color=C9D1D9" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ansh-sharma123&repo=AI-Healthcare-Diagnosis-System&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=7C3AED&text_color=C9D1D9" width="100%" />
 </a>
 
 > **Multi-disease AI diagnostic platform powered by deep neural ensembles**
@@ -261,7 +261,7 @@ Diagnoses **6+ diseases** (Diabetes, Heart Disease, Stroke, Kidney, Liver & more
 ### 📅 ChronoGen: Genetic Algorithm Timetable System
 
 <a href="https://github.com/ansh-sharma123/ChronoGen-Timetable-System">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ansh-sharma123&repo=ChronoGen-Timetable-System&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=7C3AED&text_color=C9D1D9" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ansh-sharma123&repo=ChronoGen-Timetable-System&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=7C3AED&text_color=C9D1D9" width="100%" />
 </a>
 
 > **Intelligent scheduling system that auto-generates conflict-free academic timetables**
@@ -280,7 +280,7 @@ Automatically generates optimised, constraint-aware academic timetables. Uses in
 ### 🔐 AegisNet — Wi-Fi Security Tool
 
 <a href="https://github.com/ansh-sharma123/cyber-project">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ansh-sharma123&repo=cyber-project&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=7C3AED&text_color=C9D1D9" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ansh-sharma123&repo=cyber-project&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=7C3AED&text_color=C9D1D9" width="100%" />
 </a>
 
 > **Network penetration testing tool for authorised security research on Linux**
@@ -329,10 +329,10 @@ An AI-powered second brain that extends your memory and thinking. Capture ideas,
 
 <p>
   <a href="https://github.com/ansh-sharma123">
-    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ansh-sharma123&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=7C3AED&text_color=FFFFFF&ring_color=e94560"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ansh-sharma123&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=7C3AED&text_color=FFFFFF&ring_color=e94560"/>
   </a>
   <a href="https://github.com/ansh-sharma123">
-    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ansh-sharma123&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ansh-sharma123&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8"/>
   </a>
 </p>
 
