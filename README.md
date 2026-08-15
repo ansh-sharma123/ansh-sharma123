@@ -470,7 +470,7 @@ An AI-powered second brain that extends your memory and thinking. Capture ideas,
 <br/><br/>
 
 <!-- QUOTE_START -->
-> <i>"First, solve the problem. Then, write the code."</i> — **John Johnson**
+> <i>"Knowing is not enough; we must apply. Willing is not enough; we must do."</i> — **Johann Wolfgang von Goethe**
 <!-- QUOTE_END -->
 
 </div>
