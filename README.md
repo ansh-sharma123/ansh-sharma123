@@ -470,7 +470,7 @@ An AI-powered second brain that extends your memory and thinking. Capture ideas,
 <br/><br/>
 
 <!-- QUOTE_START -->
-> <i>"Knowing is not enough; we must apply. Willing is not enough; we must do."</i> — **Johann Wolfgang von Goethe**
+> <i>"The secret of getting ahead is getting started."</i> — **Mark Twain**
 <!-- QUOTE_END -->
 
 </div>
