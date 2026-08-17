@@ -470,7 +470,7 @@ An AI-powered second brain that extends your memory and thinking. Capture ideas,
 <br/><br/>
 
 <!-- QUOTE_START -->
-> <i>"The secret of getting ahead is getting started."</i> — **Mark Twain**
+> <i>"Build systems, not goals."</i> — **James Clear**
 <!-- QUOTE_END -->
 
 </div>
