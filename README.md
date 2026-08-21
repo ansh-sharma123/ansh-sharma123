@@ -470,7 +470,7 @@ An AI-powered second brain that extends your memory and thinking. Capture ideas,
 <br/><br/>
 
 <!-- QUOTE_START -->
-> <i>"An investment in knowledge pays the best interest."</i> — **Benjamin Franklin**
+> <i>"Encryption works. Properly implemented strong crypto systems are one of the few things that you can rely on."</i> — **Edward Snowden**
 <!-- QUOTE_END -->
 
 </div>
