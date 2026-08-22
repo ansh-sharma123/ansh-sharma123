@@ -470,7 +470,7 @@ An AI-powered second brain that extends your memory and thinking. Capture ideas,
 <br/><br/>
 
 <!-- QUOTE_START -->
-> <i>"Encryption works. Properly implemented strong crypto systems are one of the few things that you can rely on."</i> — **Edward Snowden**
+> <i>"Security is not a product, but a process."</i> — **Bruce Schneier**
 <!-- QUOTE_END -->
 
 </div>
