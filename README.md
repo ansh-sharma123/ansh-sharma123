@@ -470,7 +470,7 @@ An AI-powered second brain that extends your memory and thinking. Capture ideas,
 <br/><br/>
 
 <!-- QUOTE_START -->
-> <i>"Security is not a product, but a process."</i> — **Bruce Schneier**
+> <i>"Talk is cheap. Show me the code."</i> — **Linus Torvalds**
 <!-- QUOTE_END -->
 
 </div>
