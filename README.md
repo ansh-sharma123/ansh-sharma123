@@ -470,7 +470,7 @@ An AI-powered second brain that extends your memory and thinking. Capture ideas,
 <br/><br/>
 
 <!-- QUOTE_START -->
-> <i>"Talk is cheap. Show me the code."</i> — **Linus Torvalds**
+> <i>"Programs must be written for people to read, and only incidentally for machines to execute."</i> — **Harold Abelson**
 <!-- QUOTE_END -->
 
 </div>
