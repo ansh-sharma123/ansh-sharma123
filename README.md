@@ -470,7 +470,7 @@ An AI-powered second brain that extends your memory and thinking. Capture ideas,
 <br/><br/>
 
 <!-- QUOTE_START -->
-> <i>"Programs must be written for people to read, and only incidentally for machines to execute."</i> — **Harold Abelson**
+> <i>"The best error message is the one that never shows up."</i> — **Thomas Fuchs**
 <!-- QUOTE_END -->
 
 </div>
