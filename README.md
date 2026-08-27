@@ -470,7 +470,7 @@ An AI-powered second brain that extends your memory and thinking. Capture ideas,
 <br/><br/>
 
 <!-- QUOTE_START -->
-> <i>"First, solve the problem. Then, write the code."</i> — **John Johnson**
+> <i>"Hackers are breaking the systems for profit. Before, it was about intellectual curiosity and notoriety."</i> — **Kevin Mitnick**
 <!-- QUOTE_END -->
 
 </div>
