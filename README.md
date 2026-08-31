@@ -470,7 +470,7 @@ An AI-powered second brain that extends your memory and thinking. Capture ideas,
 <br/><br/>
 
 <!-- QUOTE_START -->
-> <i>"Privacy is not something that I'm merely entitled to, it's an absolute prerequisite."</i> — **Marlon Brando**
+> <i>"Knowing is not enough; we must apply. Willing is not enough; we must do."</i> — **Johann Wolfgang von Goethe**
 <!-- QUOTE_END -->
 
 </div>
