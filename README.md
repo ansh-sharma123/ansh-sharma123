@@ -470,7 +470,7 @@ An AI-powered second brain that extends your memory and thinking. Capture ideas,
 <br/><br/>
 
 <!-- QUOTE_START -->
-> <i>"Whether you think you can or you think you can't, you're right."</i> — **Henry Ford**
+> <i>"Talk is cheap. Show me the code."</i> — **Linus Torvalds**
 <!-- QUOTE_END -->
 
 </div>
