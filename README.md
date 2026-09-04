@@ -470,7 +470,7 @@ An AI-powered second brain that extends your memory and thinking. Capture ideas,
 <br/><br/>
 
 <!-- QUOTE_START -->
-> <i>"Talk is cheap. Show me the code."</i> — **Linus Torvalds**
+> <i>"The mind is not a vessel to be filled, but a fire to be kindled."</i> — **Plutarch**
 <!-- QUOTE_END -->
 
 </div>
