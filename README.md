@@ -470,7 +470,7 @@ An AI-powered second brain that extends your memory and thinking. Capture ideas,
 <br/><br/>
 
 <!-- QUOTE_START -->
-> <i>"There is no patch for human stupidity."</i> — **Kevin Mitnick**
+> <i>"We are all now connected by the Internet, like neurons in a giant brain."</i> — **Stephen Hawking**
 <!-- QUOTE_END -->
 
 </div>
