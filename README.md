@@ -470,7 +470,7 @@ An AI-powered second brain that extends your memory and thinking. Capture ideas,
 <br/><br/>
 
 <!-- QUOTE_START -->
-> <i>"We are all now connected by the Internet, like neurons in a giant brain."</i> — **Stephen Hawking**
+> <i>"The best error message is the one that never shows up."</i> — **Thomas Fuchs**
 <!-- QUOTE_END -->
 
 </div>
