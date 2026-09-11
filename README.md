@@ -470,7 +470,7 @@ An AI-powered second brain that extends your memory and thinking. Capture ideas,
 <br/><br/>
 
 <!-- QUOTE_START -->
-> <i>"The best error message is the one that never shows up."</i> — **Thomas Fuchs**
+> <i>"Make it work, make it right, make it fast."</i> — **Kent Beck**
 <!-- QUOTE_END -->
 
 </div>
