@@ -470,7 +470,7 @@ An AI-powered second brain that extends your memory and thinking. Capture ideas,
 <br/><br/>
 
 <!-- QUOTE_START -->
-> <i>"Any sufficiently advanced technology is indistinguishable from magic."</i> — **Arthur C. Clarke**
+> <i>"The function of good software is to make the complex appear to be simple."</i> — **Grady Booch**
 <!-- QUOTE_END -->
 
 </div>
