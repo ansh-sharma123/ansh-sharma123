@@ -470,7 +470,7 @@ An AI-powered second brain that extends your memory and thinking. Capture ideas,
 <br/><br/>
 
 <!-- QUOTE_START -->
-> <i>"An investment in knowledge pays the best interest."</i> — **Benjamin Franklin**
+> <i>"Artificial intelligence is the new electricity."</i> — **Andrew Ng**
 <!-- QUOTE_END -->
 
 </div>
