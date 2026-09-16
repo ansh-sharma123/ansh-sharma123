@@ -470,7 +470,7 @@ An AI-powered second brain that extends your memory and thinking. Capture ideas,
 <br/><br/>
 
 <!-- QUOTE_START -->
-> <i>"Artificial intelligence is the new electricity."</i> — **Andrew Ng**
+> <i>"Learning never exhausts the mind."</i> — **Leonardo da Vinci**
 <!-- QUOTE_END -->
 
 </div>
