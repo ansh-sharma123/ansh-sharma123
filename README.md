@@ -470,7 +470,7 @@ An AI-powered second brain that extends your memory and thinking. Capture ideas,
 <br/><br/>
 
 <!-- QUOTE_START -->
-> <i>"Learning never exhausts the mind."</i> — **Leonardo da Vinci**
+> <i>"Don't watch the clock; do what it does. Keep going."</i> — **Sam Levenson**
 <!-- QUOTE_END -->
 
 </div>
