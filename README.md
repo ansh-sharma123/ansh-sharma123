@@ -470,7 +470,7 @@ An AI-powered second brain that extends your memory and thinking. Capture ideas,
 <br/><br/>
 
 <!-- QUOTE_START -->
-> <i>"Don't watch the clock; do what it does. Keep going."</i> — **Sam Levenson**
+> <i>"The road to wisdom? Well, it's plain and simple to express: Err and err and err again but less and less and less."</i> — **Piet Hein**
 <!-- QUOTE_END -->
 
 </div>
