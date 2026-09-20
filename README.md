@@ -470,7 +470,7 @@ An AI-powered second brain that extends your memory and thinking. Capture ideas,
 <br/><br/>
 
 <!-- QUOTE_START -->
-> <i>"Simplicity is the soul of efficiency."</i> — **Austin Freeman**
+> <i>"AI is probably the most important thing humanity has ever worked on."</i> — **Sundar Pichai**
 <!-- QUOTE_END -->
 
 </div>
