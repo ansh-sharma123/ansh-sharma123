@@ -470,7 +470,7 @@ An AI-powered second brain that extends your memory and thinking. Capture ideas,
 <br/><br/>
 
 <!-- QUOTE_START -->
-> <i>"Always code as if the person who ends up maintaining your code will be a violent psychopath who knows where you live."</i> — **John Woods**
+> <i>"Code is like humor. When you have to explain it, it's bad."</i> — **Cory House**
 <!-- QUOTE_END -->
 
 </div>
