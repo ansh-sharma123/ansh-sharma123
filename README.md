@@ -470,7 +470,7 @@ An AI-powered second brain that extends your memory and thinking. Capture ideas,
 <br/><br/>
 
 <!-- QUOTE_START -->
-> <i>"Curiosity is the engine of achievement."</i> — **Ken Robinson**
+> <i>"Your mind is for having ideas, not holding them."</i> — **David Allen**
 <!-- QUOTE_END -->
 
 </div>
