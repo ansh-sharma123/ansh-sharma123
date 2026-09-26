@@ -470,7 +470,7 @@ An AI-powered second brain that extends your memory and thinking. Capture ideas,
 <br/><br/>
 
 <!-- QUOTE_START -->
-> <i>"Your mind is for having ideas, not holding them."</i> — **David Allen**
+> <i>"Whether you think you can or you think you can't, you're right."</i> — **Henry Ford**
 <!-- QUOTE_END -->
 
 </div>
