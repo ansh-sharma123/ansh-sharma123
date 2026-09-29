@@ -470,7 +470,7 @@ An AI-powered second brain that extends your memory and thinking. Capture ideas,
 <br/><br/>
 
 <!-- QUOTE_START -->
-> <i>"Cybersecurity is much more than a matter of IT."</i> — **Stéphane Nappo**
+> <i>"We can only see a short distance ahead, but we can see plenty there that needs to be done."</i> — **Alan Turing**
 <!-- QUOTE_END -->
 
 </div>
