@@ -470,7 +470,7 @@ An AI-powered second brain that extends your memory and thinking. Capture ideas,
 <br/><br/>
 
 <!-- QUOTE_START -->
-> <i>"We can only see a short distance ahead, but we can see plenty there that needs to be done."</i> — **Alan Turing**
+> <i>"There is no patch for human stupidity."</i> — **Kevin Mitnick**
 <!-- QUOTE_END -->
 
 </div>
