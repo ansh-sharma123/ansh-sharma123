@@ -470,7 +470,7 @@ An AI-powered second brain that extends your memory and thinking. Capture ideas,
 <br/><br/>
 
 <!-- QUOTE_START -->
-> <i>"There is no patch for human stupidity."</i> — **Kevin Mitnick**
+> <i>"Your second brain multiplies your first."</i> — **Anonymous**
 <!-- QUOTE_END -->
 
 </div>
