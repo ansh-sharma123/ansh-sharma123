@@ -470,7 +470,7 @@ An AI-powered second brain that extends your memory and thinking. Capture ideas,
 <br/><br/>
 
 <!-- QUOTE_START -->
-> <i>"Your second brain multiplies your first."</i> — **Anonymous**
+> <i>"Good code is its own best documentation."</i> — **Steve McConnell**
 <!-- QUOTE_END -->
 
 </div>
