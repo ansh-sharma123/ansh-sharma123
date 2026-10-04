@@ -470,7 +470,7 @@ An AI-powered second brain that extends your memory and thinking. Capture ideas,
 <br/><br/>
 
 <!-- QUOTE_START -->
-> <i>"Always code as if the person who ends up maintaining your code will be a violent psychopath who knows where you live."</i> — **John Woods**
+> <i>"The future belongs to those who learn more skills and combine them in creative ways."</i> — **Robert Greene**
 <!-- QUOTE_END -->
 
 </div>
