@@ -470,7 +470,7 @@ An AI-powered second brain that extends your memory and thinking. Capture ideas,
 <br/><br/>
 
 <!-- QUOTE_START -->
-> <i>"The future belongs to those who learn more skills and combine them in creative ways."</i> — **Robert Greene**
+> <i>"There is no patch for human stupidity."</i> — **Kevin Mitnick**
 <!-- QUOTE_END -->
 
 </div>
