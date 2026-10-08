@@ -470,7 +470,7 @@ An AI-powered second brain that extends your memory and thinking. Capture ideas,
 <br/><br/>
 
 <!-- QUOTE_START -->
-> <i>"It always seems impossible until it's done."</i> — **Nelson Mandela**
+> <i>"Security is not a product, but a process."</i> — **Bruce Schneier**
 <!-- QUOTE_END -->
 
 </div>
