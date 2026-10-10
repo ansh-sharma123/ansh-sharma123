@@ -470,7 +470,7 @@ An AI-powered second brain that extends your memory and thinking. Capture ideas,
 <br/><br/>
 
 <!-- QUOTE_START -->
-> <i>"There is no patch for human stupidity."</i> — **Kevin Mitnick**
+> <i>"If you can't explain it simply, you don't understand it well enough."</i> — **Albert Einstein**
 <!-- QUOTE_END -->
 
 </div>
