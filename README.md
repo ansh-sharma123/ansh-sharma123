@@ -470,7 +470,7 @@ An AI-powered second brain that extends your memory and thinking. Capture ideas,
 <br/><br/>
 
 <!-- QUOTE_START -->
-> <i>"If you can't explain it simply, you don't understand it well enough."</i> — **Albert Einstein**
+> <i>"Talk is cheap. Show me the code."</i> — **Linus Torvalds**
 <!-- QUOTE_END -->
 
 </div>
