@@ -470,7 +470,7 @@ An AI-powered second brain that extends your memory and thinking. Capture ideas,
 <br/><br/>
 
 <!-- QUOTE_START -->
-> <i>"Your mind is for having ideas, not holding them."</i> — **David Allen**
+> <i>"The measure of intelligence is the ability to change."</i> — **Albert Einstein**
 <!-- QUOTE_END -->
 
 </div>
