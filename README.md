@@ -470,7 +470,7 @@ An AI-powered second brain that extends your memory and thinking. Capture ideas,
 <br/><br/>
 
 <!-- QUOTE_START -->
-> <i>"The measure of intelligence is the ability to change."</i> — **Albert Einstein**
+> <i>"AI is probably the most important thing humanity has ever worked on."</i> — **Sundar Pichai**
 <!-- QUOTE_END -->
 
 </div>
