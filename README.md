@@ -470,7 +470,7 @@ An AI-powered second brain that extends your memory and thinking. Capture ideas,
 <br/><br/>
 
 <!-- QUOTE_START -->
-> <i>"AI is probably the most important thing humanity has ever worked on."</i> — **Sundar Pichai**
+> <i>"Your second brain multiplies your first."</i> — **Anonymous**
 <!-- QUOTE_END -->
 
 </div>
