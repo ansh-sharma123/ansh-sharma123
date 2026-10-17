@@ -470,7 +470,7 @@ An AI-powered second brain that extends your memory and thinking. Capture ideas,
 <br/><br/>
 
 <!-- QUOTE_START -->
-> <i>"Your second brain multiplies your first."</i> — **Anonymous**
+> <i>"The best error message is the one that never shows up."</i> — **Thomas Fuchs**
 <!-- QUOTE_END -->
 
 </div>
