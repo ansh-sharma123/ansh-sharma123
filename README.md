@@ -470,7 +470,7 @@ An AI-powered second brain that extends your memory and thinking. Capture ideas,
 <br/><br/>
 
 <!-- QUOTE_START -->
-> <i>"Don't watch the clock; do what it does. Keep going."</i> — **Sam Levenson**
+> <i>"Knowledge is power. Sharing it is wisdom."</i> — **Anonymous**
 <!-- QUOTE_END -->
 
 </div>
