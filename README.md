@@ -470,7 +470,7 @@ An AI-powered second brain that extends your memory and thinking. Capture ideas,
 <br/><br/>
 
 <!-- QUOTE_START -->
-> <i>"AI is probably the most important thing humanity has ever worked on."</i> — **Sundar Pichai**
+> <i>"The question of whether a computer can think is no more interesting than the question of whether a submarine can swim."</i> — **Edsger W. Dijkstra**
 <!-- QUOTE_END -->
 
 </div>
