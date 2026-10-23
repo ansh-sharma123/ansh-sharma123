@@ -470,7 +470,7 @@ An AI-powered second brain that extends your memory and thinking. Capture ideas,
 <br/><br/>
 
 <!-- QUOTE_START -->
-> <i>"The question of whether a computer can think is no more interesting than the question of whether a submarine can swim."</i> — **Edsger W. Dijkstra**
+> <i>"Talk is cheap. Show me the code."</i> — **Linus Torvalds**
 <!-- QUOTE_END -->
 
 </div>
