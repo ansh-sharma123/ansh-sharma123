@@ -470,7 +470,7 @@ An AI-powered second brain that extends your memory and thinking. Capture ideas,
 <br/><br/>
 
 <!-- QUOTE_START -->
-> <i>"In the middle of every difficulty lies opportunity."</i> — **Albert Einstein**
+> <i>"Artificial intelligence is the new electricity."</i> — **Andrew Ng**
 <!-- QUOTE_END -->
 
 </div>
