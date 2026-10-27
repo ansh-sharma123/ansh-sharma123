@@ -470,7 +470,7 @@ An AI-powered second brain that extends your memory and thinking. Capture ideas,
 <br/><br/>
 
 <!-- QUOTE_START -->
-> <i>"Artificial intelligence is the new electricity."</i> — **Andrew Ng**
+> <i>"Hard work beats talent when talent doesn't work hard."</i> — **Tim Notke**
 <!-- QUOTE_END -->
 
 </div>
