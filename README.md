@@ -470,7 +470,7 @@ An AI-powered second brain that extends your memory and thinking. Capture ideas,
 <br/><br/>
 
 <!-- QUOTE_START -->
-> <i>"Hard work beats talent when talent doesn't work hard."</i> — **Tim Notke**
+> <i>"Debugging is twice as hard as writing the code in the first place."</i> — **Brian W. Kernighan**
 <!-- QUOTE_END -->
 
 </div>
