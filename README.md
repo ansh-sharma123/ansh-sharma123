@@ -470,7 +470,7 @@ An AI-powered second brain that extends your memory and thinking. Capture ideas,
 <br/><br/>
 
 <!-- QUOTE_START -->
-> <i>"Debugging is twice as hard as writing the code in the first place."</i> — **Brian W. Kernighan**
+> <i>"Make it work, make it right, make it fast."</i> — **Kent Beck**
 <!-- QUOTE_END -->
 
 </div>
