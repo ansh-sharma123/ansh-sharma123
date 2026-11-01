@@ -470,7 +470,7 @@ An AI-powered second brain that extends your memory and thinking. Capture ideas,
 <br/><br/>
 
 <!-- QUOTE_START -->
-> <i>"The only truly secure system is one that is powered off, cast in a block of concrete and sealed in a lead-lined room with armed guards."</i> — **Gene Spafford**
+> <i>"AI is probably the most important thing humanity has ever worked on."</i> — **Sundar Pichai**
 <!-- QUOTE_END -->
 
 </div>
