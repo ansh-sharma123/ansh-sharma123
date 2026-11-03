@@ -470,7 +470,7 @@ An AI-powered second brain that extends your memory and thinking. Capture ideas,
 <br/><br/>
 
 <!-- QUOTE_START -->
-> <i>"You miss 100% of the shots you don't take."</i> — **Wayne Gretzky**
+> <i>"Code is like humor. When you have to explain it, it's bad."</i> — **Cory House**
 <!-- QUOTE_END -->
 
 </div>
