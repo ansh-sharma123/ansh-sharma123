@@ -470,7 +470,7 @@ An AI-powered second brain that extends your memory and thinking. Capture ideas,
 <br/><br/>
 
 <!-- QUOTE_START -->
-> <i>"Simplicity is the soul of efficiency."</i> — **Austin Freeman**
+> <i>"Data is the new oil."</i> — **Clive Humby**
 <!-- QUOTE_END -->
 
 </div>
