@@ -470,7 +470,7 @@ An AI-powered second brain that extends your memory and thinking. Capture ideas,
 <br/><br/>
 
 <!-- QUOTE_START -->
-> <i>"Programs must be written for people to read, and only incidentally for machines to execute."</i> — **Harold Abelson**
+> <i>"The only limit to our realization of tomorrow is our doubts of today."</i> — **Franklin D. Roosevelt**
 <!-- QUOTE_END -->
 
 </div>
