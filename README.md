@@ -470,7 +470,7 @@ An AI-powered second brain that extends your memory and thinking. Capture ideas,
 <br/><br/>
 
 <!-- QUOTE_START -->
-> <i>"The only limit to our realization of tomorrow is our doubts of today."</i> — **Franklin D. Roosevelt**
+> <i>"Your mind is for having ideas, not holding them."</i> — **David Allen**
 <!-- QUOTE_END -->
 
 </div>
