@@ -470,7 +470,7 @@ An AI-powered second brain that extends your memory and thinking. Capture ideas,
 <br/><br/>
 
 <!-- QUOTE_START -->
-> <i>"Your mind is for having ideas, not holding them."</i> — **David Allen**
+> <i>"Cybersecurity is much more than a matter of IT."</i> — **Stéphane Nappo**
 <!-- QUOTE_END -->
 
 </div>
