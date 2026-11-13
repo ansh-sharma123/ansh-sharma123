@@ -470,7 +470,7 @@ An AI-powered second brain that extends your memory and thinking. Capture ideas,
 <br/><br/>
 
 <!-- QUOTE_START -->
-> <i>"Cybersecurity is much more than a matter of IT."</i> — **Stéphane Nappo**
+> <i>"Programs must be written for people to read, and only incidentally for machines to execute."</i> — **Harold Abelson**
 <!-- QUOTE_END -->
 
 </div>
