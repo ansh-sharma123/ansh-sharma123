@@ -470,7 +470,7 @@ An AI-powered second brain that extends your memory and thinking. Capture ideas,
 <br/><br/>
 
 <!-- QUOTE_START -->
-> <i>"The measure of intelligence is the ability to change."</i> — **Albert Einstein**
+> <i>"Curiosity is the engine of achievement."</i> — **Ken Robinson**
 <!-- QUOTE_END -->
 
 </div>
