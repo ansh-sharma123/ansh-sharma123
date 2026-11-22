@@ -470,7 +470,7 @@ An AI-powered second brain that extends your memory and thinking. Capture ideas,
 <br/><br/>
 
 <!-- QUOTE_START -->
-> <i>"If you can't explain it simply, you don't understand it well enough."</i> — **Albert Einstein**
+> <i>"Hard choices, easy life. Easy choices, hard life."</i> — **Jerzy Gregorek**
 <!-- QUOTE_END -->
 
 </div>
