@@ -470,7 +470,7 @@ An AI-powered second brain that extends your memory and thinking. Capture ideas,
 <br/><br/>
 
 <!-- QUOTE_START -->
-> <i>"You miss 100% of the shots you don't take."</i> — **Wayne Gretzky**
+> <i>"The question of whether a computer can think is no more interesting than the question of whether a submarine can swim."</i> — **Edsger W. Dijkstra**
 <!-- QUOTE_END -->
 
 </div>
