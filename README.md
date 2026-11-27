@@ -470,7 +470,7 @@ An AI-powered second brain that extends your memory and thinking. Capture ideas,
 <br/><br/>
 
 <!-- QUOTE_START -->
-> <i>"Knowing is not enough; we must apply. Willing is not enough; we must do."</i> — **Johann Wolfgang von Goethe**
+> <i>"Be the change you wish to see in the world."</i> — **Mahatma Gandhi**
 <!-- QUOTE_END -->
 
 </div>
