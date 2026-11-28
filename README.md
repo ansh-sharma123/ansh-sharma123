@@ -470,7 +470,7 @@ An AI-powered second brain that extends your memory and thinking. Capture ideas,
 <br/><br/>
 
 <!-- QUOTE_START -->
-> <i>"Be the change you wish to see in the world."</i> — **Mahatma Gandhi**
+> <i>"Any sufficiently advanced technology is indistinguishable from magic."</i> — **Arthur C. Clarke**
 <!-- QUOTE_END -->
 
 </div>
